@@ -1,0 +1,5 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 4 Unit Tests\Cosmetics\Cosmetics\bin\Debug\Cosmetics.dll
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 4 Unit Tests\Cosmetics\Cosmetics\bin\Debug\Cosmetics.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 4 Unit Tests\Cosmetics\Cosmetics\obj\Debug\Cosmetics.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 4 Unit Tests\Cosmetics\Cosmetics\obj\Debug\Cosmetics.dll
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 4 Unit Tests\Cosmetics\Cosmetics\obj\Debug\Cosmetics.pdb

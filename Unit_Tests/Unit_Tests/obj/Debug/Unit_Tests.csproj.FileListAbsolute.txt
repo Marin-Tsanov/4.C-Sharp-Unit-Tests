@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Unit_Tests\Unit_Tests\bin\Debug\Unit_Tests.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Unit_Tests\Unit_Tests\bin\Debug\Unit_Tests.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Unit_Tests\Unit_Tests\bin\Debug\Unit_Tests.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Unit_Tests\Unit_Tests\obj\Debug\Unit_Tests.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Unit_Tests\Unit_Tests\obj\Debug\Unit_Tests.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 3\Unit_Tests\Unit_Tests\obj\Debug\Unit_Tests.pdb

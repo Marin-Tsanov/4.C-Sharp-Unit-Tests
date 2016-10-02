@@ -1,0 +1,5 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 4 Unit Tests\School\School\bin\Debug\School.dll
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 4 Unit Tests\School\School\bin\Debug\School.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 4 Unit Tests\School\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 4 Unit Tests\School\School\obj\Debug\School.dll
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 4 Unit Tests\School\School\obj\Debug\School.pdb

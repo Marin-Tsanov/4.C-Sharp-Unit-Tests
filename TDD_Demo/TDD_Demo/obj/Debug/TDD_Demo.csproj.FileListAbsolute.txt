@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 4 Unit Tests\TDD_Demo\TDD_Demo\obj\Debug\TDD_Demo.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 4 Unit Tests\TDD_Demo\TDD_Demo\bin\Debug\TDD_Demo.dll
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 4 Unit Tests\TDD_Demo\TDD_Demo\bin\Debug\TDD_Demo.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 4 Unit Tests\TDD_Demo\TDD_Demo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 4 Unit Tests\TDD_Demo\TDD_Demo\obj\Debug\TDD_Demo.dll
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 4 Unit Tests\TDD_Demo\TDD_Demo\obj\Debug\TDD_Demo.pdb
